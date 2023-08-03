@@ -1,4 +1,4 @@
-![logo()]
+![logo(https://github.com/ali-xwave/Ali-Asghar/blob/main/GitHub-Banner.Png.png)]
 <h1 align="center">Hi ??, I'm Ali Asghar</h1>
 <h3 align="center">A frontend developer from Khairpur, Sindh, Pakistan.</h3>
 
